@@ -1,6 +1,6 @@
 # Cena - Construção e incorporação <h1>
 
-<p>Projeto site estático, simples e responsivo para uma construtora</p>
+<p>Static, simple and responsive website design for a construction company</p>
 
 <img src="imagens/Cena-home.JPG">
 <img src="imagens/Cena-part2.PNG">
